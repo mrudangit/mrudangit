@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrudangit
-- 👀 I’m interested in ... Angular, OpenFin, Electron, TypeScript , Real Time UI, FinTech, Messaging 
-- 🌱 I’m currently learning ... Cloud, Microservices
-- 💞️ I’m looking to collaborate on ... anything cool Angular especially
+- 👀 I’m interested in ... Angular, OpenFin, Electron, TypeScript , Real Time UI, FinTech, Messaging, NATS.IO
+- 🌱 I’m currently learning ... AI, 
+- 💞️ I’m looking to collaborate on ... anything cool Angular, NATS.IO especially
 - 📫 How to reach me ...  Twitter @montumaj
 
 <!---
